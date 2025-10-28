@@ -41,7 +41,6 @@ All models are implemented in **Python (3.13)** using the **scikit-learn** libra
 - **Activation functions:** ReLU, Logistic, or Tanh  
 - **Optimizer:** Adam
 
----
 
 ## Evaluation Metrics
 
